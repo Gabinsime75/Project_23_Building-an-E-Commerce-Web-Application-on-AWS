@@ -1,6 +1,6 @@
 # AWS_3_tier_web_architecture
 
-![image](https://github.com/IrinaZarzu/3tier_architecture/assets/116802082/9a2e1e91-ec89-42c2-bfb6-37b34400127e)
+![image](https://github.com/Gabinsime75/Project_23_Building-an-E-Commerce-Web-Application-on-AWS/blob/main/Project_23_Building-an-E-Commerce-Web-Application-on-AWS-3-Tier-Architecture-with-SSM-WAF-and-CloudFront.jpg)
 
 
 This repository contains the infrastructure setup for an e-commerce website using a 3-tier architecture on AWS. The setup includes a web application tier, an application tier, and a data tier, ensuring high availability, scalability, and security.
